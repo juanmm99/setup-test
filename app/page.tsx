@@ -11,6 +11,11 @@ export default function Home() {
               Rubén Sahagún Benítez
             </Link>
           </li>
+          <li>
+            <Link href={"https://github.com/juanmm99"} target="_blank">
+              Juan Mencía Menéndez
+            </Link>
+          </li>
         </ul>
       </div>
     </main>
